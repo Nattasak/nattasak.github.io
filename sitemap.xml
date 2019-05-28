@@ -3,17 +3,34 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://nattasak.github.io/posts/2/</loc>
+    <lastmod>2019-05-29T01:01:25+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nattasak.github.io/posts/</loc>
+    <lastmod>2019-05-29T01:01:25+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://nattasak.github.io/</loc>
+    <lastmod>2019-05-29T01:01:25+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://nattasak.github.io/posts/1/</loc>
+    <lastmod>2019-05-29T00:26:45+07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://nattasak.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://nattasak.github.io/tags/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://nattasak.github.io/</loc>
     <priority>0</priority>
   </url>
   
