@@ -3,17 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://nattasak.github.io/nattnts/categories/</loc>
+    <loc>https://nattasak.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://nattasak.github.io/nattnts/tags/</loc>
+    <loc>https://nattasak.github.io/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://nattasak.github.io/nattnts/</loc>
+    <loc>https://nattasak.github.io/</loc>
     <priority>0</priority>
   </url>
   
