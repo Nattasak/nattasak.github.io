@@ -6,19 +6,31 @@
     <description>Recent content in Posts on nattnts</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>th-th</language>
-    <lastBuildDate>Wed, 29 May 2019 22:32:47 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 05 Jun 2019 22:47:12 +0700</lastBuildDate>
     
 	<atom:link href="https://nattasak.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>อิสระ</title>
+      <title>Clear Button</title>
+      <link>https://nattasak.github.io/posts/clear-button/</link>
+      <pubDate>Wed, 05 Jun 2019 22:47:12 +0700</pubDate>
+      
+      <guid>https://nattasak.github.io/posts/clear-button/</guid>
+      <description>ถ้าในแต่ละคืนก่อนนอนเราสามารถลบล้างเรื่องที่ไม่ดีของวันนั้นได้คงดี... มันคงเป็นเรื่องธรรมดามากๆ ที่ ในแต่ละวัน วันหนึ่ง ย่อมมีทั้งเรื่องดีและไม่ดี&amp;hellip;
+มันจะเป็นไปได้ไหมที่เราจะสามารถติดตั้งปุ่มๆ หนึ่งไว้ในใจของเรา&amp;hellip;
+แล้วกดมันก่อนนอนทุกคืน&amp;hellip;
+ปล่อยเรื่องที่ผิดพลาด พลาดพลั้ง ลืมคิด ไม่สมบูรณ์บ้าง ให้ผ่านไป&amp;hellip;
+เพราะความไม่สมบูรณ์เป็นธรรมชาติของเรา</description>
+    </item>
+    
+    <item>
+      <title>Free</title>
       <link>https://nattasak.github.io/posts/free/</link>
       <pubDate>Wed, 29 May 2019 22:32:47 +0700</pubDate>
       
       <guid>https://nattasak.github.io/posts/free/</guid>
-      <description>จะดีแค่ไหนถ้าเราสามารถทำอะไรได้ดั่งใจต้องการ&amp;hellip;
-ใครๆ ก็อยากทำในสิ่งที่ตัวเองต้องการกันทั้งนั้น แต่ทว่าคนที่รู้ความต้องการจริงๆ ของตนนั้น จะมีสักกี่คน&amp;hellip;
+      <description>จะดีแค่ไหนถ้าเราสามารถทำอะไรได้ดั่งใจต้องการ... ใครๆ ก็อยากทำในสิ่งที่ตัวเองต้องการกันทั้งนั้น แต่ทว่าคนที่รู้ความต้องการจริงๆ ของตนนั้น จะมีสักกี่คน&amp;hellip;
 ถ้าหากรู้ความต้องการแท้จริงของตนแล้ว มันก็ไม่ยากเลยที่เราจะมีอิสระเหนือผู้คน&amp;hellip;
 อิสระ คือ หลุดพ้นจากการทำตามผู้อื่น และได้เป็นตัวของตัวเองอย่างแท้จริง</description>
     </item>
