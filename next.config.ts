@@ -1,8 +1,10 @@
-import type { NextConfig } from 'next'
-
-const nextConfig: NextConfig = {
+// next.config.js
+/** @type {import('next').NextConfig} */
+const nextConfig = {
   output: 'export',
-  basePath: process.env.PAGES_BASE_PATH,
+  images: {
+    unoptimized: true,
+  },
 }
 
-export default nextConfig
+module.exports = nextConfig
