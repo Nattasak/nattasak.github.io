@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "nattasak.github.io",
-  description: "landing page of nattasak.github.io",
+  title: "n a t",
+  description: "landing page of n a t",
 };
 
 export default function RootLayout({
